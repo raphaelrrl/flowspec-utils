@@ -9,7 +9,7 @@ Clone repository and install dependencies.
 
 ```bash
   apt install sudo nodejs npm
-  git clone https://github.com/andbmarques/flowspec-utils.git
+  git clone https://github.com/raphaelrrl/flowspec-utils.git
   cd flowspec-utils
   npm install
   chmod +x script.js
